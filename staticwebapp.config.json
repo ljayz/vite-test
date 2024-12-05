@@ -1,14 +1,5 @@
 {
   "navigationFallback": {
     "rewrite": "index.html"
-  },
-  "routes": [
-    {
-      "route": "*",
-      "methods": [
-        "get"
-      ],
-      "rewrite": "index.html"
-    }
-  ]
+  }
 }
