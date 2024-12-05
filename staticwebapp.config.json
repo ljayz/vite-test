@@ -1,10 +1,7 @@
 {
   "routes": [
     {
-      "route": "/*.html",
-      "methods": [
-        "get"
-      ],
+      "route": "/",
       "rewrite": "/index.html"
     }
   ]
